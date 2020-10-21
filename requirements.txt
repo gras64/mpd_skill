@@ -1,2 +1,2 @@
 python-mpd2==0.5.5
-rapidfuzz>=0.12.3
+rapidfuzz==0.12.3
